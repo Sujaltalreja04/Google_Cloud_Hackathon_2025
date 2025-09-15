@@ -1,4 +1,5 @@
-# 🚀 Smart Career Advisor AI
+# 🚀 AI-Powered Career Counselor
+## Google Cloud Hackathon 2025 Project
 
 > **Enterprise-grade AI-powered career assistant leveraging advanced Machine Learning and Large Language Models for intelligent resume-job compatibility analysis**
 
@@ -11,7 +12,7 @@
 
 ## 🎯 Project Overview
 
-Smart Career Advisor AI is a **production-ready, enterprise-grade machine learning system** trained on **6,241+ real resume-job pairs** from HuggingFace datasets. This end-to-end ML application combines advanced NLP, ensemble learning algorithms, and Large Language Models to deliver personalized career insights with **78.14% accuracy** and **89.57% ROC AUC score**.
+AI-Powered Career Counselor is a **production-ready, enterprise-grade machine learning system** developed for Google Cloud Hackathon 2025. This innovative solution is trained on **6,241+ real resume-job pairs** from HuggingFace datasets. This end-to-end ML application combines advanced NLP, ensemble learning algorithms, and Large Language Models to deliver personalized career insights with **78.14% accuracy** and **89.57% ROC AUC score**.
 
 ### 🏆 **Advanced ML Achievements**
 - **Enterprise Dataset**: Trained on `cnamuangtoun/resume-job-description-fit` (6,241 samples)
@@ -106,8 +107,8 @@ Performance:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Vedang1801/Smart-Career-Advisor.git
-   cd Smart-Career-Advisor
+   git clone https://github.com/Sujaltalreja04/Google_Cloud_Hackathon_2025.git
+   cd Google_Cloud_Hackathon_2025
    ```
 
 2. **Install dependencies**
@@ -136,7 +137,7 @@ The application will open in your default browser at `http://localhost:8501`
 ## 📁 Project Structure
 
 ```
-Smart Career Advisor AI/
+AI-Powered-Career-Counselor/
 ├── app/
 │   └── main.py                    # Streamlit frontend with advanced ML UI
 ├── src/
@@ -258,11 +259,22 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## Author
-### Gavara Lokesh
-📧 lokeshgavara1@gmail.com
-🔗 LinkedIn Profile
+## 👨‍💻 Team & Development
 
-> **"Engineered an enterprise-grade AI career assistant using XGBoost ML pipeline trained on 6,241+ real resume-job pairs, achieving 78.14% accuracy and 89.57% ROC AUC with advanced NLP feature engineering, production MLOps, and intelligent fallback systems."**
+### **Team Leader & Developer**
+#### **Sujal K Talreja**
+- 📧 **Email**: sujaltalreja04@gmail.com
+- 📞 **Phone**: 7574021120
+- 🔗 **LinkedIn**: [Sujal Kishore Kumar Talreja](https://www.linkedin.com/in/sujal-kishore-kumar-talreja-65975b216/)
+- 🚀 **Role**: Project Lead, ML Engineer, Full-Stack Developer
 
-**🏆 Built with cutting-edge ML technologies for enterprise-level performance**
+> **"Made and redeveloped by Team Leader Sujal K Talreja for Google Cloud Hackathon 2025. Engineered an enterprise-grade AI career assistant using XGBoost ML pipeline trained on 6,241+ real resume-job pairs, achieving 78.14% accuracy and 89.57% ROC AUC with advanced NLP feature engineering, production MLOps, and intelligent fallback systems."**
+
+### 🏆 **Google Cloud Hackathon 2025**
+This project represents a comprehensive AI solution designed specifically for the Google Cloud Hackathon 2025, showcasing:
+- **Advanced Machine Learning**: XGBoost ensemble models with hyperparameter optimization
+- **Cloud-Ready Architecture**: Scalable design suitable for Google Cloud Platform deployment
+- **Production-Grade Implementation**: Enterprise-level error handling and fallback mechanisms
+- **Innovative AI Integration**: GPT-4 powered career enhancement and interview preparation
+
+**🌟 Built with cutting-edge ML technologies for enterprise-level performance and cloud deployment**
