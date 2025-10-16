@@ -143,7 +143,7 @@ Provide 5 actionable resume improvements:\"\"\"
         return False
 
 if __name__ == "__main__":
-    print("🚀 AI-Powered Career Counselor - Direct Test")
+    print("🚀 Evolvex AI - Direct Test")
     print("="*60)
     
     # Test Ollama connection

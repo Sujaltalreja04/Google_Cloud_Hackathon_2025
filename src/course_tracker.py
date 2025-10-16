@@ -1,5 +1,5 @@
 """
-Course Progress Tracking System for AI-Powered Career Counselor
+Course Progress Tracking System for Evolvex AI
 Allows users to track their learning progress and course completion
 """
 

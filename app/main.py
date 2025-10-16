@@ -93,7 +93,7 @@ with st.sidebar:
         - **Ollama API**: Local AI model integration
         ''')
 
-st.title('Smart Career Advisor AI')
+st.title('Evolvex AI')
 st.markdown('''
 <div style="text-align: center; padding: 10px; background: linear-gradient(90deg, #667eea 0%, #764ba2 100%); border-radius: 10px; margin-bottom: 20px;">
     <span style="font-size:1.2em; color:white; font-weight:500;">AI-powered assistant for resume optimization, job matching, and career growth</span>

@@ -1,9 +1,9 @@
 {
   "user_id": "default_user",
   "created_at": "2025-09-14T11:31:21.875201",
-  "total_sessions": 123,
-  "skills_assessed": 61,
-  "resumes_analyzed": 61,
+  "total_sessions": 171,
+  "skills_assessed": 85,
+  "resumes_analyzed": 85,
   "interviews_practiced": 1,
   "courses_started": 0,
   "courses_completed": 0,
@@ -35,5 +35,5 @@
   "weekly_goals": [],
   "monthly_goals": [],
   "streak_days": 0,
-  "last_activity": "2025-09-14T13:50:57.131474"
+  "last_activity": "2025-09-18T16:54:17.329907"
 }

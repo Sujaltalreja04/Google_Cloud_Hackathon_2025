@@ -1,4 +1,4 @@
-# 🚀 AI-Powered Career Counselor
+# 🚀 Evolvex AI
 ## Google Cloud Hackathon 2025 Project
 
 > **Enterprise-grade AI-powered career assistant leveraging advanced Machine Learning and Large Language Models for intelligent resume-job compatibility analysis**
@@ -12,7 +12,7 @@
 
 ## 🎯 Project Overview
 
-AI-Powered Career Counselor is a **production-ready, enterprise-grade machine learning system** developed for Google Cloud Hackathon 2025. This innovative solution is trained on **6,241+ real resume-job pairs** from HuggingFace datasets. This end-to-end ML application combines advanced NLP, ensemble learning algorithms, and Large Language Models to deliver personalized career insights with **78.14% accuracy** and **89.57% ROC AUC score**.
+Evolvex AI is a **production-ready, enterprise-grade machine learning system** developed for Google Cloud Hackathon 2025. This innovative solution is trained on **6,241+ real resume-job pairs** from HuggingFace datasets. This end-to-end ML application combines advanced NLP, ensemble learning algorithms, and Large Language Models to deliver personalized career insights with **78.14% accuracy** and **89.57% ROC AUC score**.
 
 ### 🏆 **Advanced ML Achievements**
 - **Enterprise Dataset**: Trained on `cnamuangtoun/resume-job-description-fit` (6,241 samples)
@@ -137,7 +137,7 @@ The application will open in your default browser at `http://localhost:8501`
 ## 📁 Project Structure
 
 ```
-AI-Powered-Career-Counselor/
+Evolvex-AI/
 ├── app/
 │   └── main.py                    # Streamlit frontend with advanced ML UI
 ├── src/
@@ -163,6 +163,64 @@ AI-Powered-Career-Counselor/
 ├── packages.txt                  # System dependencies
 └── README.md                     # Project documentation
 ```
+
+## 👨‍💻 Team & Development
+
+### 🏆 **Google Cloud Hackathon 2025**
+
+This project was developed as part of the **Google Cloud Hackathon 2025**, showcasing cutting-edge AI technologies and cloud-ready architecture.
+
+### 🧠 **Team Members & Contributions**
+
+#### **Sujal K Talreja** - *Team Leader*
+- 📧 **Email**: sujaltalreja04@gmail.com
+- 📞 **Phone**: 7574021120
+- 🔗 **LinkedIn**: [Sujal Kishore Kumar Talreja](https://www.linkedin.com/in/sujal-kishore-kumar-talreja-65975b216/)
+- 🚀 **Role**: Project Lead, ML Engineer, Full-Stack Developer
+- 💼 **Contributions**: 
+  - Led the overall project architecture and development
+  - Implemented the core machine learning pipeline with XGBoost
+  - Developed the backend systems and API integrations
+  - Fine-tuned Ollama LLM integration for local AI processing
+  - Managed model training, optimization, and deployment
+
+#### **Krutik Kothari**
+- 🚀 **Role**: Frontend Developer, ML Pipeline Engineer
+- 💼 **Contributions**:
+  - Developed the intuitive Streamlit frontend interface
+  - Created interactive visualizations for model predictions
+  - Implemented the machine learning pipelines for seamless integration
+  - Designed user experience workflows and navigation
+  - Integrated real-time feedback mechanisms
+
+#### **Sahil Patel**
+- 🚀 **Role**: Backend Developer, ML Optimization Specialist
+- 💼 **Contributions**:
+  - Worked on backend systems and API development
+  - Optimized machine learning algorithms for better performance
+  - Implemented data processing pipelines and feature engineering
+  - Enhanced system scalability and error handling
+  - Managed database integrations and data flow optimization
+
+#### **Aneri Patel**
+- 🚀 **Role**: Frontend Developer, Integration Specialist, Presentation Designer
+- 💼 **Contributions**:
+  - Focused on frontend development and user interface design
+  - Handled system integration and component connectivity
+  - Created the presentation materials and project documentation
+  - Designed visual elements and user experience components
+  - Managed testing and quality assurance of frontend features
+
+### 🎯 **Project Highlights**
+- **Advanced Machine Learning**: XGBoost ensemble models with hyperparameter optimization
+- **Cloud-Ready Architecture**: Scalable design suitable for Google Cloud Platform deployment
+- **Production-Grade Implementation**: Enterprise-level error handling and fallback mechanisms
+- **Innovative AI Integration**: GPT-4 powered career enhancement and interview preparation
+- **Collaborative Development**: Team-based approach with specialized roles and contributions
+
+> **"Engineered an enterprise-grade AI career assistant using XGBoost ML pipeline trained on 6,241+ real resume-job pairs, achieving 78.14% accuracy and 89.57% ROC AUC with advanced NLP feature engineering, production MLOps, and intelligent fallback systems."**
+
+**🌟 Built with cutting-edge ML technologies for enterprise-level performance and cloud deployment**
 
 ## 🎯 Core Features Deep Dive
 
@@ -256,25 +314,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
----
-
-## 👨‍💻 Team & Development
-
-### **Team Leader & Developer**
-#### **Sujal K Talreja**
-- 📧 **Email**: sujaltalreja04@gmail.com
-- 📞 **Phone**: 7574021120
-- 🔗 **LinkedIn**: [Sujal Kishore Kumar Talreja](https://www.linkedin.com/in/sujal-kishore-kumar-talreja-65975b216/)
-- 🚀 **Role**: Project Lead, ML Engineer, Full-Stack Developer
-
-> **"Made and redeveloped by Team Leader Sujal K Talreja for Google Cloud Hackathon 2025. Engineered an enterprise-grade AI career assistant using XGBoost ML pipeline trained on 6,241+ real resume-job pairs, achieving 78.14% accuracy and 89.57% ROC AUC with advanced NLP feature engineering, production MLOps, and intelligent fallback systems."**
-
-### 🏆 **Google Cloud Hackathon 2025**
-This project represents a comprehensive AI solution designed specifically for the Google Cloud Hackathon 2025, showcasing:
-- **Advanced Machine Learning**: XGBoost ensemble models with hyperparameter optimization
-- **Cloud-Ready Architecture**: Scalable design suitable for Google Cloud Platform deployment
-- **Production-Grade Implementation**: Enterprise-level error handling and fallback mechanisms
-- **Innovative AI Integration**: GPT-4 powered career enhancement and interview preparation
-
-**🌟 Built with cutting-edge ML technologies for enterprise-level performance and cloud deployment**

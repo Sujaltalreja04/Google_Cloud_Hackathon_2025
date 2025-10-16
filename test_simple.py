@@ -66,7 +66,7 @@ def test_resume_enhancement():
         return False
 
 if __name__ == "__main__":
-    print("🚀 AI-Powered Career Counselor - Resume Enhancement Test")
+    print("🚀 Evolvex AI - Resume Enhancement Test")
     print("="*60)
     
     success = test_resume_enhancement()

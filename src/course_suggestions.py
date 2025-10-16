@@ -1,5 +1,5 @@
 """
-Enhanced Course Suggestion System for AI-Powered Career Counselor
+Enhanced Course Suggestion System for Evolvex AI
 Provides comprehensive course recommendations based on skills and career goals
 """
 

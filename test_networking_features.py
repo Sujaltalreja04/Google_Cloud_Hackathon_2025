@@ -133,7 +133,7 @@ def test_realtime_analyzer():
 
 def main():
     """Main test function"""
-    print("🚀 AI-Powered Career Counselor - Networking Features Test")
+    print("🚀 Evolvex AI - Networking Features Test")
     print("=" * 70)
     
     try:

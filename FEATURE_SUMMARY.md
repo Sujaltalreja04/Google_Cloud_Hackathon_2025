@@ -1,4 +1,4 @@
-# 🚀 Smart Career Advisor AI - Feature Summary
+# 🚀 Evolvex AI - Feature Summary
 
 ## 🎯 Core Features
 
@@ -190,4 +190,4 @@ The application tracks various metrics to help users understand their progress:
 - **Progress Tracking**: Gamified learning experience with achievements
 - **Real-Time Support**: Interactive chatbot for immediate assistance
 
-This comprehensive feature set makes the Smart Career Advisor AI a complete solution for career development, from initial exploration to job placement and beyond.
+This comprehensive feature set makes Evolvex AI a complete solution for career development, from initial exploration to job placement and beyond.
